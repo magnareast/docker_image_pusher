@@ -1,3 +1,4 @@
 gdy666/lucky:latest
 hslr/sun-panel:latest
 xream/sub-store:latest
+snowdreamtech/frpc:latest
